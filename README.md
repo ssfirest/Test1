@@ -15,3 +15,5 @@ Line 4
 Result
 
 Extra
+
+A new line
